@@ -8,7 +8,7 @@ saat kipas berputar, dan notifikasi Telegram terkirim setiap kipas
 berubah status (bisa dimatikan dengan `USE_TELEGRAM` 0).
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://youtube.com/shorts/5kWmxbIPNww
 
 ## Komponen
 
